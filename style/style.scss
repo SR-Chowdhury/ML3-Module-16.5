@@ -1,0 +1,11 @@
+$red-color: red;
+$bg-blue: black;
+$white-color: #FFF;
+strong {
+    color: $red-color;
+}
+code {
+    background-color: $bg-blue;
+    padding: 5px;
+    color: $white-color !important;
+}
